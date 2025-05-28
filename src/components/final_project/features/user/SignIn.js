@@ -27,7 +27,7 @@ const SignIn = () => {
         <>
         <br></br>
     <br></br>
-    <TextField id="outlined-basic" label="user Name" variant="outlined"  onChange={(e) => user.name = e.target.value}></TextField>
+    <TextField id="outlined-basic" label="User Name" variant="outlined"  onChange={(e) => user.name = e.target.value}></TextField>
     <br></br>
     <br></br>
     <TextField id="outlined-basic" label="password" variant="outlined"  onChange={(e) => user.password = e.target.value}></TextField>
