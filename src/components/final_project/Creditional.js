@@ -41,8 +41,6 @@ const Creditional = () => {
       console.error("Login failed:", error);
     }
   }
-  
-
 
   return (<>
     <br></br>
